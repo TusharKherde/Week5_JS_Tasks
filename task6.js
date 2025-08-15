@@ -4,16 +4,16 @@ setTimeout(function(){
 
 setTimeout(function(){
     console.log("MY");
-}, 3000);
+}, 6000);
 
 setTimeout(function(){
     console.log("NAME");
-}, 3000);
+}, 9000);
 
 setTimeout(function(){
     console.log("IS");
-}, 3000);
+}, 12000);
 
 setTimeout(function(){
     console.log("TUSHAR");
-}, 3000);
+}, 15000);
